@@ -7,9 +7,10 @@ Una CLI per gestire i post in un database MongoDB utilizzando Node.js, TypeScrip
 
 ### Requisiti
 
-*Node.js versione 16 o superiore
-*MongoDB Atlas o un'istanza locale di MongoDB configurata
-*Una connessione funzionante al database MongoDB (specificare la stringa di *connessione nel file .env)
+* Node.js versione 16 o superiore
+* MongoDB Atlas o un'istanza locale di MongoDB configurata
+* Una connessione funzionante al database MongoDB 
+* (specificare la stringa di *connessione nel file .env)
 
 ### Configurazione
 
