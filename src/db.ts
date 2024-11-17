@@ -59,7 +59,7 @@ export const updatePost = async (id: string, title: string, content: string) => 
 
 };
 
-//rimuovere un post
+//eliminare un post
 export const deletePost = async (id: string) => {
     try {
         const deletedPost = await Post.findByIdAndDelete(id);

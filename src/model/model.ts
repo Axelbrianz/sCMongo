@@ -1,7 +1,6 @@
 import mongoose from "mongoose";
 
 
-
 // Definizione dello schema di un post
 const postSchema = new mongoose.Schema({
     title: { type: String, required: true },
