@@ -17,7 +17,7 @@ Una CLI per gestire i post in un database MongoDB utilizzando Node.js, TypeScrip
 1.Clona repository: 
 
 ``` 
-git clone <url-del-tuo-repository>
+git clone https://github.com/Axelbrianz/sCMongo.git
 
 cd <nome-cartella-repository>
 
