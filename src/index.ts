@@ -96,10 +96,3 @@ program
 
 // Esegui i comandi definiti
 program.parse(process.argv);
-
-
-
-
-
-
-
